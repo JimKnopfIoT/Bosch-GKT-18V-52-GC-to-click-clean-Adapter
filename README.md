@@ -10,6 +10,11 @@ So here is my own one.
 I also created an additional adapter to connect the original dust bag instead of the click&clean tube. 
 Have a look in my repos. There is also a dust cover for the hole on the side.
 
+Requirements:
+* 3D printer 
+* Filament of your choice (I use PETG)
+
+
 ## View
 <p align="center">
 <img src="IMG_20250105_194932.jpg" width="220"> 
